@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Firefox ACME System 1 - Dashboard",
+  "Type": "Screen",
+  "Id": "snfFM6aTWE68l5KzVhbouw",
+  "Reference": "8tOA2QNttEy-1QBltPO21g/snfFM6aTWE68l5KzVhbouw",
+  "ParentRef": "8tOA2QNttEy-1QBltPO21g/PwfRFLLKPUyLACChFI1IXw",
+  "Created": "2024-10-29T16:19:01.8881259Z",
+  "Updated": "2024-10-29T16:19:01.8881259Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
